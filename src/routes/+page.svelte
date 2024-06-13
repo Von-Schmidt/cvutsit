@@ -12,7 +12,6 @@
     <h1>Vítej na stránce pro studijní materiály oboru SIT. Momentálně jsou na odkaze dole.</h1>
     <h1>V budoucnu budou materiály přesunuty přímo sem.</h1>
     <h1>Pro jakékoliv dotazy mě můžete kontaktovat na <a href="mailto:support@cvutsit.cz">support@cvutsit.cz</a></h1>
-    <h1> DŮLEŽITÉ - mail server měl výpadek, takže mi nechodily maily. Pokud jste nějaké odeslali, odešlete je, prosím, znovu.</h1>
     <div class="button-box">
         <button on:click={goToLink}>Odkaz na materiály</button>
     </div>
