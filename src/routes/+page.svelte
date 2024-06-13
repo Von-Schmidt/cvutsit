@@ -1,7 +1,7 @@
 <script>
     import './styles.css';
 
-    let link = 'https://cloud.vincentsmid.xyz/s/xTYydH6ZiB9WX9a';
+    let link = 'https://cloud.vincentsmid.xyz/index.php/s/WaXS8cA73gkck7n';
 
     function goToLink() {
         window.location.href = link;
